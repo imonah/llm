@@ -1,0 +1,14 @@
+openai
+langchain>=0.2.0
+langchain-community>=0.0.26
+langchain-openai>=0.0.8
+langchain-huggingface>=0.0.5
+faiss-cpu
+sentence-transformers
+gradio
+tiktoken
+numpy
+pandas
+python-docx
+PyPDF2
+openpyxl
