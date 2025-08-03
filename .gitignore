@@ -2,7 +2,6 @@
 my_fine_tuned_model
 data
 vector_store
-# Python
 __pycache__/
 *.py[cod]
 *$py.class
