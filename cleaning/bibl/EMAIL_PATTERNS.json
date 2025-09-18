@@ -1,0 +1,10 @@
+{
+  "patterns": [
+    { "name": "first.last", "template": "{first}.{last}" },
+    { "name": "f.last",     "template": "{f}.{last}" },
+    { "name": "firstl",     "template": "{first}{l}" },
+    { "name": "flast",      "template": "{f}{last}" },
+    { "name": "lastf",      "template": "{last}{f}" },
+    { "name": "last",       "template": "{last}" }
+  ]
+}

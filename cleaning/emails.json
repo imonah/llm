@@ -1,0 +1,434 @@
+[
+  {
+    "CleanName": "Jean-Paul Delacroix",
+    "Pattern 1": "jeanpaul.delacroix@domain.com",
+    "Pattern 2": "j.delacroix@domain.com",
+    "Pattern 3": "jeanpauld@domain.com",
+    "Pattern 4": "jdelacroix@domain.com",
+    "Pattern 5": "delacroixj@domain.com",
+    "Pattern 6": "delacroix@domain.com"
+  },
+  {
+    "CleanName": "Thomas Brown",
+    "Pattern 1": "thomas.brown@domain.com",
+    "Pattern 2": "t.brown@domain.com",
+    "Pattern 3": "thomasb@domain.com",
+    "Pattern 4": "tbrown@domain.com",
+    "Pattern 5": "brownt@domain.com",
+    "Pattern 6": "brown@domain.com"
+  },
+  {
+    "CleanName": "Alex von Dramer",
+    "Pattern 1": "alex.vondramer@domain.com",
+    "Pattern 2": "a.vondramer@domain.com",
+    "Pattern 3": "alexv@domain.com",
+    "Pattern 4": "avondramer@domain.com",
+    "Pattern 5": "vondramera@domain.com",
+    "Pattern 6": "vondramer@domain.com"
+  },
+  {
+    "CleanName": "Alex Dramer",
+    "Pattern 1": "alex.dramer@domain.com",
+    "Pattern 2": "a.dramer@domain.com",
+    "Pattern 3": "alexd@domain.com",
+    "Pattern 4": "adramer@domain.com",
+    "Pattern 5": "dramera@domain.com",
+    "Pattern 6": "dramer@domain.com"
+  },
+  {
+    "CleanName": "Alex vonDramer",
+    "Pattern 1": "alex.vondramer@domain.com",
+    "Pattern 2": "a.vondramer@domain.com",
+    "Pattern 3": "alexv@domain.com",
+    "Pattern 4": "avondramer@domain.com",
+    "Pattern 5": "vondramera@domain.com",
+    "Pattern 6": "vondramer@domain.com"
+  },
+  {
+    "CleanName": "Anna-Maria de la Cruz",
+    "Pattern 1": "annamaria.delacruz@domain.com",
+    "Pattern 2": "a.delacruz@domain.com",
+    "Pattern 3": "annamariad@domain.com",
+    "Pattern 4": "adelacruz@domain.com",
+    "Pattern 5": "delacruza@domain.com",
+    "Pattern 6": "delacruz@domain.com"
+  },
+  {
+    "CleanName": "Anna-Maria Cruz",
+    "Pattern 1": "annamaria.cruz@domain.com",
+    "Pattern 2": "a.cruz@domain.com",
+    "Pattern 3": "annamariac@domain.com",
+    "Pattern 4": "acruz@domain.com",
+    "Pattern 5": "cruza@domain.com",
+    "Pattern 6": "cruz@domain.com"
+  },
+  {
+    "CleanName": "Anna-Maria delaCruz",
+    "Pattern 1": "annamaria.delacruz@domain.com",
+    "Pattern 2": "a.delacruz@domain.com",
+    "Pattern 3": "annamariad@domain.com",
+    "Pattern 4": "adelacruz@domain.com",
+    "Pattern 5": "delacruza@domain.com",
+    "Pattern 6": "delacruz@domain.com"
+  },
+  {
+    "CleanName": "John Smith",
+    "Pattern 1": "john.smith@domain.com",
+    "Pattern 2": "j.smith@domain.com",
+    "Pattern 3": "johns@domain.com",
+    "Pattern 4": "jsmith@domain.com",
+    "Pattern 5": "smithj@domain.com",
+    "Pattern 6": "smith@domain.com"
+  },
+  {
+    "CleanName": "Claire O'Connor",
+    "Pattern 1": "claire.oconnor@domain.com",
+    "Pattern 2": "c.oconnor@domain.com",
+    "Pattern 3": "claireo@domain.com",
+    "Pattern 4": "coconnor@domain.com",
+    "Pattern 5": "oconnorc@domain.com",
+    "Pattern 6": "oconnor@domain.com"
+  },
+  {
+    "CleanName": "Thomas van der Meer",
+    "Pattern 1": "thomas.vandermeer@domain.com",
+    "Pattern 2": "t.vandermeer@domain.com",
+    "Pattern 3": "thomasv@domain.com",
+    "Pattern 4": "tvandermeer@domain.com",
+    "Pattern 5": "vandermeert@domain.com",
+    "Pattern 6": "vandermeer@domain.com"
+  },
+  {
+    "CleanName": "Thomas Meer",
+    "Pattern 1": "thomas.meer@domain.com",
+    "Pattern 2": "t.meer@domain.com",
+    "Pattern 3": "thomasm@domain.com",
+    "Pattern 4": "tmeer@domain.com",
+    "Pattern 5": "meert@domain.com",
+    "Pattern 6": "meer@domain.com"
+  },
+  {
+    "CleanName": "Thomas vanderMeer",
+    "Pattern 1": "thomas.vandermeer@domain.com",
+    "Pattern 2": "t.vandermeer@domain.com",
+    "Pattern 3": "thomasv@domain.com",
+    "Pattern 4": "tvandermeer@domain.com",
+    "Pattern 5": "vandermeert@domain.com",
+    "Pattern 6": "vandermeer@domain.com"
+  },
+  {
+    "CleanName": "Sophie D'Angelo",
+    "Pattern 1": "sophie.dangelo@domain.com",
+    "Pattern 2": "s.dangelo@domain.com",
+    "Pattern 3": "sophied@domain.com",
+    "Pattern 4": "sdangelo@domain.com",
+    "Pattern 5": "dangelos@domain.com",
+    "Pattern 6": "dangelo@domain.com"
+  },
+  {
+    "CleanName": "David ibn Khalid",
+    "Pattern 1": "david.ibnkhalid@domain.com",
+    "Pattern 2": "d.ibnkhalid@domain.com",
+    "Pattern 3": "davidi@domain.com",
+    "Pattern 4": "dibnkhalid@domain.com",
+    "Pattern 5": "ibnkhalidd@domain.com",
+    "Pattern 6": "ibnkhalid@domain.com"
+  },
+  {
+    "CleanName": "David Khalid",
+    "Pattern 1": "david.khalid@domain.com",
+    "Pattern 2": "d.khalid@domain.com",
+    "Pattern 3": "davidk@domain.com",
+    "Pattern 4": "dkhalid@domain.com",
+    "Pattern 5": "khalidd@domain.com",
+    "Pattern 6": "khalid@domain.com"
+  },
+  {
+    "CleanName": "David ibnKhalid",
+    "Pattern 1": "david.ibnkhalid@domain.com",
+    "Pattern 2": "d.ibnkhalid@domain.com",
+    "Pattern 3": "davidi@domain.com",
+    "Pattern 4": "dibnkhalid@domain.com",
+    "Pattern 5": "ibnkhalidd@domain.com",
+    "Pattern 6": "ibnkhalid@domain.com"
+  },
+  {
+    "CleanName": "Klaus vom Stein",
+    "Pattern 1": "klaus.vomstein@domain.com",
+    "Pattern 2": "k.vomstein@domain.com",
+    "Pattern 3": "klausv@domain.com",
+    "Pattern 4": "kvomstein@domain.com",
+    "Pattern 5": "vomsteink@domain.com",
+    "Pattern 6": "vomstein@domain.com"
+  },
+  {
+    "CleanName": "Klaus Stein",
+    "Pattern 1": "klaus.stein@domain.com",
+    "Pattern 2": "k.stein@domain.com",
+    "Pattern 3": "klauss@domain.com",
+    "Pattern 4": "kstein@domain.com",
+    "Pattern 5": "steink@domain.com",
+    "Pattern 6": "stein@domain.com"
+  },
+  {
+    "CleanName": "Klaus vomStein",
+    "Pattern 1": "klaus.vomstein@domain.com",
+    "Pattern 2": "k.vomstein@domain.com",
+    "Pattern 3": "klausv@domain.com",
+    "Pattern 4": "kvomstein@domain.com",
+    "Pattern 5": "vomsteink@domain.com",
+    "Pattern 6": "vomstein@domain.com"
+  },
+  {
+    "CleanName": "Elizabeth MacDonald",
+    "Pattern 1": "elizabeth.macdonald@domain.com",
+    "Pattern 2": "e.macdonald@domain.com",
+    "Pattern 3": "elizabethm@domain.com",
+    "Pattern 4": "emacdonald@domain.com",
+    "Pattern 5": "macdonalde@domain.com",
+    "Pattern 6": "macdonald@domain.com"
+  },
+  {
+    "CleanName": "Carlos da Silva",
+    "Pattern 1": "carlos.dasilva@domain.com",
+    "Pattern 2": "c.dasilva@domain.com",
+    "Pattern 3": "carlosd@domain.com",
+    "Pattern 4": "cdasilva@domain.com",
+    "Pattern 5": "dasilvac@domain.com",
+    "Pattern 6": "dasilva@domain.com"
+  },
+  {
+    "CleanName": "Carlos Silva",
+    "Pattern 1": "carlos.silva@domain.com",
+    "Pattern 2": "c.silva@domain.com",
+    "Pattern 3": "carloss@domain.com",
+    "Pattern 4": "csilva@domain.com",
+    "Pattern 5": "silvac@domain.com",
+    "Pattern 6": "silva@domain.com"
+  },
+  {
+    "CleanName": "Carlos daSilva",
+    "Pattern 1": "carlos.dasilva@domain.com",
+    "Pattern 2": "c.dasilva@domain.com",
+    "Pattern 3": "carlosd@domain.com",
+    "Pattern 4": "cdasilva@domain.com",
+    "Pattern 5": "dasilvac@domain.com",
+    "Pattern 6": "dasilva@domain.com"
+  },
+  {
+    "CleanName": "Matteo della Valle",
+    "Pattern 1": "matteo.dellavalle@domain.com",
+    "Pattern 2": "m.dellavalle@domain.com",
+    "Pattern 3": "matteod@domain.com",
+    "Pattern 4": "mdellavalle@domain.com",
+    "Pattern 5": "dellavallem@domain.com",
+    "Pattern 6": "dellavalle@domain.com"
+  },
+  {
+    "CleanName": "Matteo Valle",
+    "Pattern 1": "matteo.valle@domain.com",
+    "Pattern 2": "m.valle@domain.com",
+    "Pattern 3": "matteov@domain.com",
+    "Pattern 4": "mvalle@domain.com",
+    "Pattern 5": "vallem@domain.com",
+    "Pattern 6": "valle@domain.com"
+  },
+  {
+    "CleanName": "Matteo dellaValle",
+    "Pattern 1": "matteo.dellavalle@domain.com",
+    "Pattern 2": "m.dellavalle@domain.com",
+    "Pattern 3": "matteod@domain.com",
+    "Pattern 4": "mdellavalle@domain.com",
+    "Pattern 5": "dellavallem@domain.com",
+    "Pattern 6": "dellavalle@domain.com"
+  },
+  {
+    "CleanName": "Arthur Fitzroy",
+    "Pattern 1": "arthur.fitzroy@domain.com",
+    "Pattern 2": "a.fitzroy@domain.com",
+    "Pattern 3": "arthurf@domain.com",
+    "Pattern 4": "afitzroy@domain.com",
+    "Pattern 5": "fitzroya@domain.com",
+    "Pattern 6": "fitzroy@domain.com"
+  },
+  {
+    "CleanName": "Michael al Rashid",
+    "Pattern 1": "michael.alrashid@domain.com",
+    "Pattern 2": "m.alrashid@domain.com",
+    "Pattern 3": "michaela@domain.com",
+    "Pattern 4": "malrashid@domain.com",
+    "Pattern 5": "alrashidm@domain.com",
+    "Pattern 6": "alrashid@domain.com"
+  },
+  {
+    "CleanName": "Michael Rashid",
+    "Pattern 1": "michael.rashid@domain.com",
+    "Pattern 2": "m.rashid@domain.com",
+    "Pattern 3": "michaelr@domain.com",
+    "Pattern 4": "mrashid@domain.com",
+    "Pattern 5": "rashidm@domain.com",
+    "Pattern 6": "rashid@domain.com"
+  },
+  {
+    "CleanName": "Michael alRashid",
+    "Pattern 1": "michael.alrashid@domain.com",
+    "Pattern 2": "m.alrashid@domain.com",
+    "Pattern 3": "michaela@domain.com",
+    "Pattern 4": "malrashid@domain.com",
+    "Pattern 5": "alrashidm@domain.com",
+    "Pattern 6": "alrashid@domain.com"
+  },
+  {
+    "CleanName": "Julia st John",
+    "Pattern 1": "julia.stjohn@domain.com",
+    "Pattern 2": "j.stjohn@domain.com",
+    "Pattern 3": "julias@domain.com",
+    "Pattern 4": "jstjohn@domain.com",
+    "Pattern 5": "stjohnj@domain.com",
+    "Pattern 6": "stjohn@domain.com"
+  },
+  {
+    "CleanName": "Julia John",
+    "Pattern 1": "julia.john@domain.com",
+    "Pattern 2": "j.john@domain.com",
+    "Pattern 3": "juliaj@domain.com",
+    "Pattern 4": "jjohn@domain.com",
+    "Pattern 5": "johnj@domain.com",
+    "Pattern 6": "john@domain.com"
+  },
+  {
+    "CleanName": "Julia stJohn",
+    "Pattern 1": "julia.stjohn@domain.com",
+    "Pattern 2": "j.stjohn@domain.com",
+    "Pattern 3": "julias@domain.com",
+    "Pattern 4": "jstjohn@domain.com",
+    "Pattern 5": "stjohnj@domain.com",
+    "Pattern 6": "stjohn@domain.com"
+  },
+  {
+    "CleanName": "Fernando del Toro",
+    "Pattern 1": "fernando.deltoro@domain.com",
+    "Pattern 2": "f.deltoro@domain.com",
+    "Pattern 3": "fernandod@domain.com",
+    "Pattern 4": "fdeltoro@domain.com",
+    "Pattern 5": "deltorof@domain.com",
+    "Pattern 6": "deltoro@domain.com"
+  },
+  {
+    "CleanName": "Fernando Toro",
+    "Pattern 1": "fernando.toro@domain.com",
+    "Pattern 2": "f.toro@domain.com",
+    "Pattern 3": "fernandot@domain.com",
+    "Pattern 4": "ftoro@domain.com",
+    "Pattern 5": "torof@domain.com",
+    "Pattern 6": "toro@domain.com"
+  },
+  {
+    "CleanName": "Fernando delToro",
+    "Pattern 1": "fernando.deltoro@domain.com",
+    "Pattern 2": "f.deltoro@domain.com",
+    "Pattern 3": "fernandod@domain.com",
+    "Pattern 4": "fdeltoro@domain.com",
+    "Pattern 5": "deltorof@domain.com",
+    "Pattern 6": "deltoro@domain.com"
+  },
+  {
+    "CleanName": "Jean-Paul Legrand",
+    "Pattern 1": "jeanpaul.legrand@domain.com",
+    "Pattern 2": "j.legrand@domain.com",
+    "Pattern 3": "jeanpaull@domain.com",
+    "Pattern 4": "jlegrand@domain.com",
+    "Pattern 5": "legrandj@domain.com",
+    "Pattern 6": "legrand@domain.com"
+  },
+  {
+    "CleanName": "Abdul al Karim",
+    "Pattern 1": "abdul.alkarim@domain.com",
+    "Pattern 2": "a.alkarim@domain.com",
+    "Pattern 3": "abdula@domain.com",
+    "Pattern 4": "aalkarim@domain.com",
+    "Pattern 5": "alkarima@domain.com",
+    "Pattern 6": "alkarim@domain.com"
+  },
+  {
+    "CleanName": "Abdul Karim",
+    "Pattern 1": "abdul.karim@domain.com",
+    "Pattern 2": "a.karim@domain.com",
+    "Pattern 3": "abdulk@domain.com",
+    "Pattern 4": "akarim@domain.com",
+    "Pattern 5": "karima@domain.com",
+    "Pattern 6": "karim@domain.com"
+  },
+  {
+    "CleanName": "Abdul alKarim",
+    "Pattern 1": "abdul.alkarim@domain.com",
+    "Pattern 2": "a.alkarim@domain.com",
+    "Pattern 3": "abdula@domain.com",
+    "Pattern 4": "aalkarim@domain.com",
+    "Pattern 5": "alkarima@domain.com",
+    "Pattern 6": "alkarim@domain.com"
+  },
+  {
+    "CleanName": "Hiroshi Tanaka",
+    "Pattern 1": "hiroshi.tanaka@domain.com",
+    "Pattern 2": "h.tanaka@domain.com",
+    "Pattern 3": "hiroshit@domain.com",
+    "Pattern 4": "htanaka@domain.com",
+    "Pattern 5": "tanakah@domain.com",
+    "Pattern 6": "tanaka@domain.com"
+  },
+  {
+    "CleanName": "Isabella van den Berg",
+    "Pattern 1": "isabella.vandenberg@domain.com",
+    "Pattern 2": "i.vandenberg@domain.com",
+    "Pattern 3": "isabellav@domain.com",
+    "Pattern 4": "ivandenberg@domain.com",
+    "Pattern 5": "vandenbergi@domain.com",
+    "Pattern 6": "vandenberg@domain.com"
+  },
+  {
+    "CleanName": "Isabella Berg",
+    "Pattern 1": "isabella.berg@domain.com",
+    "Pattern 2": "i.berg@domain.com",
+    "Pattern 3": "isabellab@domain.com",
+    "Pattern 4": "iberg@domain.com",
+    "Pattern 5": "bergi@domain.com",
+    "Pattern 6": "berg@domain.com"
+  },
+  {
+    "CleanName": "Isabella vandenBerg",
+    "Pattern 1": "isabella.vandenberg@domain.com",
+    "Pattern 2": "i.vandenberg@domain.com",
+    "Pattern 3": "isabellav@domain.com",
+    "Pattern 4": "ivandenberg@domain.com",
+    "Pattern 5": "vandenbergi@domain.com",
+    "Pattern 6": "vandenberg@domain.com"
+  },
+  {
+    "CleanName": "William de Montfort",
+    "Pattern 1": "william.demontfort@domain.com",
+    "Pattern 2": "w.demontfort@domain.com",
+    "Pattern 3": "williamd@domain.com",
+    "Pattern 4": "wdemontfort@domain.com",
+    "Pattern 5": "demontfortw@domain.com",
+    "Pattern 6": "demontfort@domain.com"
+  },
+  {
+    "CleanName": "William Montfort",
+    "Pattern 1": "william.montfort@domain.com",
+    "Pattern 2": "w.montfort@domain.com",
+    "Pattern 3": "williamm@domain.com",
+    "Pattern 4": "wmontfort@domain.com",
+    "Pattern 5": "montfortw@domain.com",
+    "Pattern 6": "montfort@domain.com"
+  },
+  {
+    "CleanName": "William deMontfort",
+    "Pattern 1": "william.demontfort@domain.com",
+    "Pattern 2": "w.demontfort@domain.com",
+    "Pattern 3": "williamd@domain.com",
+    "Pattern 4": "wdemontfort@domain.com",
+    "Pattern 5": "demontfortw@domain.com",
+    "Pattern 6": "demontfort@domain.com"
+  }
+]

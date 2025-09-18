@@ -1,0 +1,20 @@
+[
+  "mr", "mister", "mrs", "ms", "miss", "mx",
+  "sir", "madam", "lady", "lord", "dame",
+  "dr", "doctor", "prof", "professor",
+  "rev", "reverend", "fr", "father", "pastor",
+  "bishop", "archbishop", "rabbi", "imam",
+  "sen", "señor", "sr", "sra", "señora", "srta", "señorita",
+  "don", "doña", "dom",
+  "monsieur", "mlle", "mademoiselle", "mme", "madame",
+  "herr", "frau", "fraulein", "hr", "hrn",
+  "signore", "signora", "signorina", "sig", "sig.ra", "sig.na",
+  "mevrouw", "mevr", "dhr",
+  "fru", "frøken", "herrn",
+  "shri", "sri", "kumari", "ji", "san", "chan", "kun", "sama",
+  "sensei", "hakim", "sheikh", "syed", "sayyid",
+  "col", "colonel", "gen", "general", "maj", "major",
+  "capt", "captain", "lt", "lieutenant", "sgt", "sergeant",
+  "cmdr", "commander", "adm", "admiral",
+  "hon", "honorable", "rt", "rt hon", "esq", "esquire"
+]

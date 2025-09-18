@@ -1,0 +1,20 @@
+[
+  "msc", "ms", "ma", "mba", "bsc", "ba", "llm", "llb",
+  "jd", "md", "do", "dmd", "dds", "edd", "dphil", "drph",
+  "eng", "meng", "beng", "dsc", "scd",
+  "cpa", "ca", "aca", "acca", "cfa", "cisa", "cissp",
+  "pmp", "sixsigma", "scrum", "csm", "cswp",
+  "pe", "se", "ra", "riba",
+  "rn", "lpn", "fnp", "pa", "np", "pharmd", "dnp",
+  "esq", "esquire", "notary",
+  "ret", "usn", "usa", "usaf", "usmc", "uscg",
+  "jr", "sr", "ii", "iii", "iv", "v", "vi",
+  "the younger", "the elder",
+  "sj", "op", "ofm", "osb", "ocd",
+  "frcp", "frcs", "facc", "faan", "fasn", "faap",
+  "chartered", "fca", "fcca",
+  "KBE", "CBE", "OBE", "MBE", "GBE", "KCMG", "CMG", "GCMG",
+  "phd", "ph.d","Ph.D.", "PhD",
+  "-Ing","-ing","Ing","Ing.","Ing","Ing","Ing",
+  "Dipl.-Ing.","Dipl Ing","Dipl. Ing","Dipl.ing","Dipl ing","Dipl.ING","DiplING","DiplING."
+]

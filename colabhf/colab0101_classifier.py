@@ -34,7 +34,7 @@ model = AutoModel.from_pretrained(checkpoint)
 
 # Предобработка с помощью токенизаторов
 raw_inputs = [
-    "I've been waiting for a HuggingFace course my whole life.",
+    "I've been waiting for a HuggingFace course my whole life.", 
     "I hate this so much!",
 ]
 inputs = tokenizer(raw_inputs, padding=True, truncation=True, return_tensors="pt")
@@ -66,6 +66,22 @@ print(outputs.last_hidden_state)
 print(outputs.last_hidden_state.shape)
 
 model = AutoModelForSequenceClassification.from_pretrained(checkpoint)
+"""
+Существует множество различных архитектур 🤗 Transformers, каждая из которых предназначена для решения определенной задачи. Вот неполный список:
+*==AutoModel,BertModel - любые модели 🤗 Transformers
+AutoModel - Объект, возвращающий правильную архитектуру на основе контрольной точки. 
+В AutoModel для возврата правильной архитектуры достаточно знать контрольную точку, 
+с которой нужно инициализироваться.
+
+*Model (извлечение скрытых состояний)
+*ForCausalLM
+*ForMaskedLM
+*ForMultipleChoice
+*ForQuestionAnswering
+*ForSequenceClassification
+*ForTokenClassification
+и другие 🤗
+"""
 print(model(**inputs))
 outputs = model(**inputs)     
 print(outputs.logits)
